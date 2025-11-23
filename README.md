@@ -32,4 +32,5 @@ Atualmente, utiliza **RabbitMQ** como broker principal.
 ## 🚀 Tecnologias Utilizadas
 
 - **RabbitMQ 3**
-- **Spring Boot
+- **Spring Boot**
+  
